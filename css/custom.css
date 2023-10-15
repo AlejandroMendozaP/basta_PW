@@ -1,0 +1,90 @@
+.tajawal{
+    font-family: 'Tajawal', sans-serif;
+}
+
+.tajawal1{
+    font-family: 'Tajawal', sans-serif;
+    font-size: medium;
+}
+
+.tajawal2{
+    font-family: 'Tajawal', sans-serif;
+    font-size: large;
+}
+
+.centrado {
+    width: 350px; /* Ancho del div centrado (ajusta según tus necesidades) */
+    height: 450px; /* Altura del div centrado (ajusta según tus necesidades) */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f0f0f0; /* Color de fondo (ajusta según tus necesidades) */
+    border: 1px solid #ccc; /* Borde (ajusta según tus necesidades) */
+    border-radius: 10px;
+    text-align: center; /* Alinea el contenido al centro */
+    padding: 20px; /* Espaciado interno (ajusta según tus necesidades) */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra (ajusta según tus necesidades) */
+}
+
+.centrado-1 {
+    width: 350px; /* Ancho del div centrado (ajusta según tus necesidades) */
+    height: 550px; /* Altura del div centrado (ajusta según tus necesidades) */
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #f0f0f0; /* Color de fondo (ajusta según tus necesidades) */
+    border: 1px solid #ccc; /* Borde (ajusta según tus necesidades) */
+    border-radius: 10px;
+    text-align: center; /* Alinea el contenido al centro */
+    padding: 20px; /* Espaciado interno (ajusta según tus necesidades) */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra (ajusta según tus necesidades) */
+}
+
+.titulo {
+    font-family: "Segoe UI";
+}
+
+.degradado {
+    background: linear-gradient(45deg,#3498db, #DF33FF); /* Define el degradado vertical de azul a rojo */
+    height: 200%;
+}
+
+
+.etiqueta {
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+}
+
+.input{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: rgb(220, 220, 228);
+}
+
+
+.boton{
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;;
+}
+
+.boton:hover{
+    background-color: #0056b3;
+}
+
+
+.formulario{
+    padding: 10px;
+}
