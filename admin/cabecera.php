@@ -7,6 +7,10 @@
         <link rel="stylesheet" href="../css/custom.css">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
         <title>Recuperar Contraseña</title>
+        <meta http-equiv="Expires" content="0">
+        <meta http-equiv="Last-Modified" content="0">
+        <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+        <meta http-equiv="Pragma" content="no-cache">
     </head>
     <body class="degradado">
         <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">

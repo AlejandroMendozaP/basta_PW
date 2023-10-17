@@ -4,8 +4,8 @@ include "../class/classCategorias.php";
 ?>
 <div class="centrado">
     <?php 
-        if(isset($_GET['accion']))
-            echo $oCategoria ->ejecuta($_GET['accion']); 
+        if(isset($_REQUEST['accion']))
+            echo $oCategoria ->ejecuta($_REQUEST['accion']); 
         else
             echo $oCategoria ->ejecuta("list");
     ?>
